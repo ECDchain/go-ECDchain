@@ -1,2 +1,2 @@
-# go-turingcontract
+# go-EDCchain
 init
